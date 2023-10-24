@@ -1,6 +1,6 @@
 ### Hi there 👋, Inemesit Friday Umoh
 #### Data and Business Intelligence Analyst
-![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/commit/12cdd12dc600efec49a5c96f5add173b9debb658)
+![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Banner.png)
 
 I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I enjoy collecting, analyzing, and interpreting complex datasets from various sources, including spreadsheets, databases, and secondary sources to identify trends, improve performance and processes, and make data-driven decision-making. I also enjoy developing and maintaining dashboards, visualizing data insights, and collaborating with cross-functional teams and leadership to meet business objectives. I'm life-long learner, open to learn new tools and processes to help businesses and organisations make informed decisions.
 
