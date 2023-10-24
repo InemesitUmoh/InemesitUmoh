@@ -6,11 +6,8 @@ I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I en
 
 Skills: Python / SQL / Power BI / Microsoft Excel / BiqQuery/Git
 
-- 🔭 I’m currently working on this page. 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/InemesitUmoh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inemesitumoh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/InemesitUmoh95)  
 
-![Profile views](https://github.com/InemesitUmoh)  
 
 
 
