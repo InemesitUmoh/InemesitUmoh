@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Inemesit Friday Umoh
+#### Data and Business Intelligence Analyst
+![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/commit/12cdd12dc600efec49a5c96f5add173b9debb658)
 
 I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I enjoy collecting, analyzing, and interpreting complex datasets from various sources, including spreadsheets, databases, and secondary sources to identify trends, improve performance and processes, and make data-driven decision-making. I also enjoy developing and maintaining dashboards, visualizing data insights, and collaborating with cross-functional teams and leadership to meet business objectives. I'm life-long learner, open to learn new tools and processes to help businesses and organisations make informed decisions.
 
+Skills: Python / SQL / Power BI / Microsoft Excel / BiqQuery/Git
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InemesitUmoh)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/InemesitUmoh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inemesitumoh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/InemesitUmoh95)  
+
+![Profile views](https://gpvc.arturio.dev/InemesitUmoh)  
+
 
 
 
