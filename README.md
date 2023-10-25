@@ -1,6 +1,6 @@
 ![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/Banner.png)
 <h3 align="center">
-Hi there, Inemesit Friday Umoh 👋
+Hi there, I'm Inemesit Friday Umoh 👋
 </h3>
 
 <h2 align="center">
