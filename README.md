@@ -1,7 +1,7 @@
 ![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/Banner.png)
-<h1 align="center">
+<h3 align="center">
 Hi there, Inemesit Friday Umoh 👋
-</h1>
+</h3>
 
 <h2 align="center">
 I'm a Data and Business Intelligence Analyst!
