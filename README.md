@@ -8,6 +8,8 @@ I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I en
 <a href="https://twitter.com/InemesitUmoh95"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/twitter.png" alt="Inemesit Umoh | Twitter" width="21px"/></a>
 <a href="https://inemesitumoh.medium.com/"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/medium.png" alt="Inemesit Umoh | Medium" width="21px"/></a>
 
+</br>
+
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
