@@ -6,7 +6,7 @@ I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I en
 
 <a href="https://www.linkedin.com/in/inemesitumoh/"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/linkedin.png" alt="Inemesit Umoh | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/InemesitUmoh95"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/twitter.png" alt="Inemesit Umoh | Twitter" width="21px"/></a>
-<a href="https://inemesitumoh.medium.com/"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/medium.png" alt="Inemesit Umoh | Medium" width="21px"/></a>
+<a href="https://medium.com/@inemesitumoh"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/medium.png" alt="Inemesit Umoh | Medium" width="21px"/></a>
 
 </br>
 
