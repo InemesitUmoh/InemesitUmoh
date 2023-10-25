@@ -1,7 +1,12 @@
-![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Banner.png)
-
+![Data and Business Intelligence Analyst](https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/Banner.png)
 # Hi there 👋, Inemesit Friday Umoh
 I'm Inemesit Friday Umoh, and I do data and business intelligence analysis. I enjoy collecting, analyzing, and interpreting complex datasets from various sources, including spreadsheets, databases, and secondary sources to identify trends, improve performance and processes, and make data-driven decision-making. I also enjoy developing and maintaining dashboards, visualizing data insights, and collaborating with cross-functional teams and leadership to meet business objectives. I'm life-long learner, open to learn new tools and processes to help businesses and organisations make informed decisions.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/inemesitumoh/"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/linkedin.png" alt="Inemesit Umoh | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/InemesitUmoh95"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/twitter.png" alt="Inemesit Umoh | Twitter" width="21px"/></a>
+<a href="https://inemesitumoh.medium.com/"><img align="left" src="https://github.com/InemesitUmoh/InemesitUmoh/blob/main/Images/medium.png" alt="Inemesit Umoh | Medium" width="21px"/></a>
 
 ## Technical Skills
 
