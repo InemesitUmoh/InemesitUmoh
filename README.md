@@ -7,7 +7,7 @@ Hi there, I'm Inemesit Friday Umoh 👋
 I'm a Data and Business Intelligence Analyst!
 </h2> 
 
-I enjoy collecting, analyzing, and interpreting complex datasets from various sources, including spreadsheets, databases, and secondary sources to identify trends, improve performance and processes, and make data-driven decision-making. I also enjoy developing and maintaining dashboards, visualizing data insights, and collaborating with cross-functional teams and leadership to meet business objectives. I'm life-long learner, open to learn new tools and processes to help businesses and organisations make informed decisions.
+I enjoy collecting, analyzing, and interpreting complex datasets from various sources, including spreadsheets, databases, APIs, and secondary sources to identify trends, improve performance and processes, and make data-driven decision-making. I also enjoy developing and maintaining dashboards, visualizing data insights, and collaborating with cross-functional teams and leadership to meet business objectives. I'm life-long learner, open to learn new tools and processes to help businesses and organisations make informed decisions.
 
 ### 🤝 Connect with me:
 
